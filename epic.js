@@ -1,3 +1,10 @@
+/*
+ Highcharts JS v6.1.1 (2018-06-27)
+
+ (c) 2009-2016 Torstein Honsi
+
+ License: www.highcharts.com/license
+*/
 var interval = function () {
   $('#epicchart').highcharts({
     chart: {
